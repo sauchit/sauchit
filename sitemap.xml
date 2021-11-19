@@ -29,24 +29,12 @@
     <lastmod>2021-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://breadCake.com/images/rainbow-donut.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://breadCake.com/images/sugar-donut.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://breadCake.com/bun.html</loc>
     <lastmod>2021-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://breadCake.com/images/rainbow-donut.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://breadCake.com/images/sugar-donut.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://breadCake.com/wholecake.html</loc>
@@ -65,12 +53,6 @@
     <lastmod>2021-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://breadCake.com/images/rainbow-donut.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://breadCake.com/images/sugar-donut.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://breadCake.com/images/chocolate-donut360x360.jpg</image:loc>
     </image:image>
@@ -111,12 +93,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://breadCake.com/images/rainbow-donut.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://breadCake.com/images/sugar-donut.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://breadCake.com/images/road.jpg</image:loc>
     </image:image>
     <image:image>
@@ -146,12 +122,6 @@
     <lastmod>2021-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://breadCake.com/images/rainbow-donut.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://breadCake.com/images/sugar-donut.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://breadCake.com/images/road.jpg</image:loc>
     </image:image>
@@ -183,12 +153,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://breadCake.com/images/rainbow-donut.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://breadCake.com/images/sugar-donut.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://breadCake.com/images/road.jpg</image:loc>
     </image:image>
     <image:image>
@@ -219,12 +183,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://breadCake.com/images/rainbow-donut.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://breadCake.com/images/sugar-donut.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://breadCake.com/images/road.jpg</image:loc>
     </image:image>
     <image:image>
@@ -254,12 +212,6 @@
     <lastmod>2021-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://breadCake.com/images/rainbow-donut.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://breadCake.com/images/sugar-donut.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://breadCake.com/images/road.jpg</image:loc>
     </image:image>

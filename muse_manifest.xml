@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="breadCake.com" resolutions="1x" timestamp="1637313112361">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="breadCake.com" resolutions="1x" timestamp="1637459517887">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_homemaster.css" crc="3933670161" ref="toast:product:index:bun:drycake:sandwich:wholecake:slicedcake"/>
-    <file name="toast.css" crc="4177454772" ref="toast"/>
-    <file name="product.css" crc="4151768336" ref="product"/>
-    <file name="index.css" crc="3825111563" ref="index"/>
-    <file name="master_newsmaster.css" crc="4013426845" ref="news"/>
+    <file name="master_homemaster.css" crc="274177536" ref="toast:product:index:bun:drycake:sandwich:wholecake:slicedcake"/>
+    <file name="toast.css" crc="3903151210" ref="toast"/>
+    <file name="product.css" crc="188025462" ref="product"/>
+    <file name="index.css" crc="60467685" ref="index"/>
+    <file name="master_newsmaster.css" crc="61833358" ref="news"/>
     <file name="master_productmaster.css" crc="3866971495" ref="toastdetails:wholecakedetails:slicedcakedetails:bundetails:sandwichdetails:drycakedetails"/>
-    <file name="news.css" crc="83198910" ref="news"/>
-    <file name="bun.css" crc="258637922" ref="bun"/>
-    <file name="drycake.css" crc="111662174" ref="drycake"/>
-    <file name="sandwich.css" crc="405523429" ref="sandwich"/>
-    <file name="wholecake.css" crc="83693890" ref="wholecake"/>
+    <file name="news.css" crc="481475887" ref="news"/>
+    <file name="bun.css" crc="512929504" ref="bun"/>
+    <file name="drycake.css" crc="320208995" ref="drycake"/>
+    <file name="sandwich.css" crc="478833623" ref="sandwich"/>
+    <file name="wholecake.css" crc="4220687692" ref="wholecake"/>
     <file name="toastdetails.css" crc="257562814" ref="toastdetails"/>
     <file name="wholecakedetails.css" crc="318513115" ref="wholecakedetails"/>
-    <file name="slicedcake.css" crc="4232436332" ref="slicedcake"/>
+    <file name="slicedcake.css" crc="13662490" ref="slicedcake"/>
     <file name="slicedcakedetails.css" crc="412879070" ref="slicedcakedetails"/>
     <file name="bundetails.css" crc="494252001" ref="bundetails"/>
     <file name="sandwichdetails.css" crc="450479426" ref="sandwichdetails"/>
@@ -46,6 +46,7 @@
   <folder name="images">
     <file name="3379.jpg" crc="3934640083" ref="toast">
       <caption webpage="toast" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="cranberry-tt-half-300x300.jpg" crc="4198554203" ref="toast:drycake:toastdetails:drycakedetails:sandwichdetails:wholecakedetails:slicedcakedetails:bundetails">
       <caption webpage="toast" alt=""/>
@@ -61,8 +62,8 @@
     </file>
     <file name="floss-bottle.jpg" crc="4221195317" ref="toast:index:drycake">
       <caption webpage="index" alt=""/>
-      <caption webpage="drycake" alt=""/>
       <caption webpage="toast" alt=""/>
+      <caption webpage="drycake" alt=""/>
     </file>
     <file name="cream-cheese-stuffed-french-toast-2-of-6.jpg" crc="324340969" ref="index">
       <caption webpage="index" alt=""/>
@@ -97,33 +98,33 @@
       <caption webpage="wholecake" alt=""/>
     </file>
     <file name="smart-aleck.jpg" crc="410901914" ref="sandwich:slicedcake:bun:wholecake">
-      <caption webpage="bun" alt=""/>
-      <caption webpage="sandwich" alt=""/>
       <caption webpage="slicedcake" alt=""/>
       <caption webpage="wholecake" alt=""/>
+      <caption webpage="bun" alt=""/>
+      <caption webpage="sandwich" alt=""/>
     </file>
     <file name="cocktail-bun-3pcs-u13200-fr.jpg" crc="3809016831" ref="slicedcake:bun"/>
     <file name="chocolate-donut-u13202-fr.jpg" crc="3972275155" ref="slicedcake:bun"/>
     <file name="golden-lava-bun-u13204-fr.png" crc="3777571420" ref="slicedcake:bun"/>
     <file name="rainbow-donut.png" crc="3999013128" ref="slicedcake:bun:toastdetails:drycakedetails:sandwichdetails:wholecakedetails:slicedcakedetails:bundetails">
-      <caption webpage="bundetails" alt=""/>
-      <caption webpage="toastdetails" alt=""/>
-      <caption webpage="sandwichdetails" alt=""/>
       <caption webpage="slicedcake" alt=""/>
+      <caption webpage="toastdetails" alt=""/>
       <caption webpage="drycakedetails" alt=""/>
-      <caption webpage="bun" alt=""/>
+      <caption webpage="bundetails" alt=""/>
       <caption webpage="slicedcakedetails" alt=""/>
       <caption webpage="wholecakedetails" alt=""/>
+      <caption webpage="sandwichdetails" alt=""/>
+      <caption webpage="bun" alt=""/>
     </file>
     <file name="sugar-donut.png" crc="4107155116" ref="slicedcake:bun:toastdetails:drycakedetails:sandwichdetails:wholecakedetails:slicedcakedetails:bundetails">
-      <caption webpage="bundetails" alt=""/>
-      <caption webpage="toastdetails" alt=""/>
-      <caption webpage="sandwichdetails" alt=""/>
       <caption webpage="slicedcake" alt=""/>
+      <caption webpage="toastdetails" alt=""/>
       <caption webpage="drycakedetails" alt=""/>
-      <caption webpage="bun" alt=""/>
+      <caption webpage="bundetails" alt=""/>
       <caption webpage="slicedcakedetails" alt=""/>
       <caption webpage="wholecakedetails" alt=""/>
+      <caption webpage="sandwichdetails" alt=""/>
+      <caption webpage="bun" alt=""/>
     </file>
     <file name="chocolate-donut.jpg" crc="4074094173" ref="toastdetails"/>
     <file name="chocolate-donut360x360.jpg" crc="3984773643" seo="true" ref="toastdetails">
@@ -312,24 +313,25 @@
       <caption webpage="news" alt=""/>
     </file>
     <file name="arrowmenudown.png" crc="262559161" ref="toast:toastdetails:news">
-      <caption webpage="toastdetails" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="news" alt=""/>
+      <caption webpage="toastdetails" alt=""/>
       <caption webpage="toast" alt=""/>
     </file>
   </folder>
-  <file name="toast.html" crc="22870084" seo="true" mt="1637312891021" redirect="true"/>
-  <file name="product.html" crc="3764462014" seo="true" mt="1637312768962" redirect="true"/>
-  <file name="index.html" crc="464735566" seo="true" mt="1637312734505" redirect="true"/>
-  <file name="sandwich.html" crc="375415390" seo="true" mt="1637312952837" redirect="true"/>
-  <file name="slicedcake.html" crc="291868612" seo="true" mt="1637313030564" redirect="true"/>
-  <file name="bun.html" crc="3930369406" seo="true" mt="1637313075068" redirect="true"/>
-  <file name="wholecake.html" crc="180627113" seo="true" mt="1637312982605" redirect="true"/>
-  <file name="drycake.html" crc="422667256" seo="true" mt="1637312911049" redirect="true"/>
+  <file name="toast.html" crc="315473284" seo="true" mt="1637459347021" redirect="true"/>
+  <file name="product.html" crc="3946191241" seo="true" mt="1637459309150" redirect="true"/>
+  <file name="index.html" crc="3769938750" seo="true" mt="1637459268190" redirect="true"/>
+  <file name="sandwich.html" crc="298838306" seo="true" mt="1637459403893" redirect="true"/>
+  <file name="slicedcake.html" crc="3980988117" seo="true" mt="1637459464180" redirect="true"/>
+  <file name="bun.html" crc="4029274654" seo="true" mt="1637459499773" redirect="true"/>
+  <file name="wholecake.html" crc="341057523" seo="true" mt="1637459440510" redirect="true"/>
+  <file name="drycake.html" crc="4011867933" seo="true" mt="1637459379853" redirect="true"/>
   <file name="toastdetails.html" crc="4075302157" seo="true" mt="1637299180977" redirect="true"/>
   <file name="drycakedetails.html" crc="3948798687" seo="true" mt="1637299180977" redirect="true"/>
   <file name="sandwichdetails.html" crc="39429876" seo="true" mt="1637299180977" redirect="true"/>
   <file name="wholecakedetails.html" crc="49404361" seo="true" mt="1637299180977" redirect="true"/>
   <file name="slicedcakedetails.html" crc="257768295" seo="true" mt="1637299180977" redirect="true"/>
   <file name="bundetails.html" crc="520329350" seo="true" mt="1637299180977" redirect="true"/>
-  <file name="news.html" crc="4024177580" seo="true" mt="1637299218764" redirect="true"/>
+  <file name="news.html" crc="3792184801" seo="true" mt="1637458643372" redirect="true"/>
 </manifest>
